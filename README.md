@@ -56,9 +56,6 @@
 - Cloud-native observability and eBPF
 
 ### 📫 Let's Connect
-
-- 📧 Email: [yerabatisk@gmail.com](mailto:yerabatisk@gmail.com)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/your-profile) <!-- Update with your LinkedIn -->
 - 🌍 Location: Toronto, ON, Canada
 
 ### 📊 GitHub Stats
