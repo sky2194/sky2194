@@ -68,8 +68,6 @@
 
 💡 *"Automating the boring stuff so teams can focus on innovation"*
 
-⚡ Fun fact: I once executed a cluster failover with zero downtime during a critical banking COB window - the adrenaline rush was real!
-
 <!--
 **sky2194/sky2194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
