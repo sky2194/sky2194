@@ -4,7 +4,7 @@ DevOps / SRE engineer in Toronto. I turn infrastructure into code and manual toi
 
 ### 🚀 What I'm building
 
-**[DepAnalyzer](https://depanalyzer.com)** — a free, open-source dependency vulnerability scanner for npm, PyPI, and Maven. It surfaces *transitive* vulnerabilities against a live database of 249k+ CVEs (synced from the OSV delta API), with zero signup and zero enterprise-tooling friction.
+**[DepAnalyzer](https://depanalyzer.com)** &nbsp;·&nbsp; **live in production** — a free, open-source dependency vulnerability scanner for npm, PyPI, and Maven. It surfaces *transitive* vulnerabilities against a live database of 249k+ CVEs (synced from the OSV delta API), with zero signup and zero enterprise-tooling friction.
 
 > React 19 + Vite (Vercel) · Flask 3.1 + Gunicorn (DigitalOcean) · Neon PostgreSQL · Playwright E2E suite gated by GitHub Actions CI
 
